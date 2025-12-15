@@ -1,5 +1,5 @@
 # MovieUseCase
-This repository showcase a Movie Use case !
+This repository showcase a Movie Use case !<br>
 In this we have classes->
 <br>
 1->Movie <br>
@@ -7,7 +7,7 @@ In this we have classes->
 3->MovieManager<br>
 
 <br>
-1->Movie class has entitites:-id,title,actor,director,year
+1->Movie class has entitites:-id,title,actor,director,year<br>
 It has method-><br>
 1. GetInfo-Returns all the info of movie.<br>
 2. Parametrized constructor<br>
