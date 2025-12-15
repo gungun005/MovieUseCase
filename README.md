@@ -23,7 +23,7 @@ Methods are-<br>
 2.RemoveMovie-Here we will remove our movie bases on the key<br>
 3.CountMovie-Here we will check the count of movies<br>
 4.GetAllMovie-In this function we will retreive our movies bases on our key and it's entries!<br>
-
+<br>
 3->MovieManager-This is the class that calls our Main method<br>
 We will get a MovieAck function<br>
 We will create our objects<br>
