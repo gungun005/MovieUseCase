@@ -16,7 +16,7 @@ It has method-><br>
 2->MovieCollection-It has entities language<br>
 We have declare our moviedb here which is nested Dictionary Type which has language has key and in it we have id and object !<br>
 We have also declare an event here OnMovieAction here<br>
-We made movie_db static not because static is good, but because you wanted one shared database across objects.<br>
+We made movie_db static not because static is good, but because we wanted one shared database across objects.<br>
 We will store movies based on language in a dictionary and also the movie object<br>
 Methods are-<br>
 1.AddMovie-Here we will check if language as key or not.If exist we will perform the addition bases on id otherwise we will create it<br>
