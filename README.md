@@ -1,9 +1,9 @@
 # MovieUseCase
 This repository showcase a Movie Use case !
 In this we have classes->
-1->Movie
-2->MovieCollection
-3->MovieManager
+1->Movie <br>
+2->MovieCollection<br>
+3->MovieManager<br>
 
 1->Movie class has entitites:-id,title,actor,director,year
 It has method->
